@@ -1,6 +1,6 @@
 # Creda · actualizaciones
 
-Creda, la app de préstamos de Daniel Lezcano (Yextep), consulta `version.json` cada vez que se abre con conexión a internet. Sin conexión funciona igual.
+Creda, la app de préstamos.
 
 | Campo | Efecto en las instalaciones |
 | --- | --- |
