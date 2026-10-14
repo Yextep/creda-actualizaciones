@@ -1,7 +1,7 @@
 {
-  "version": "",
-  "codigo": 0,
-  "apk": "",
+  "version": "1.4",
+  "codigo": 6,
+  "apk": "https://github.com/Yextep/creda-actualizaciones/releases/download/v1.4/Creda.apk",
   "codigo_minimo": 0,
   "bloqueada": false,
   "mensaje": ""
